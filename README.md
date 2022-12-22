@@ -2,7 +2,7 @@ Assignment6 Markdown sample
 ======================
 To test
 -------
- * useful
+ * useful commands
  * ls
  * df
  * grep
